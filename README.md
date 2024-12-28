@@ -1,6 +1,6 @@
 # Vehicle Detection and Counter
 
-Using Pyton and OpenCV
+Using Python and OpenCV
 ## Install These into your computer
 
 ```sh
