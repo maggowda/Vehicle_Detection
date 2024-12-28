@@ -4,8 +4,10 @@ Using Python and OpenCV.
 ## Install these in your computer
 ```sh
 pip install opencv-contrib-python
+```
 ```sh
 pip install times
+```
 <br><br>
 ## The Result of the project
 
