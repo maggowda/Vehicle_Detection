@@ -9,10 +9,4 @@ pip install opencv-contrib-python
 pip install times
 ```
 <br><br>
-## The Result of the project
 
-![Test] (Test.png)
-
-<br><br>
-
-![Result] (Result.png)
